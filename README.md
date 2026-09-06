@@ -9,6 +9,9 @@ The goal of AICraft is to help developers understand code structure, improve pro
 ---
 
 # Features
+## AI Code Explainer
+
+AICraft can use AI to explain Python source code and help developers understand complex code.
 
 ## Code Analyzer
 
