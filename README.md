@@ -1,3 +1,5 @@
+[![AICraft Tests](https://github.com/s471136992/AICraft/actions/workflows/test.yml/badge.svg)](https://github.com/s471136992/AICraft/actions/workflows/test.yml)
+
 # AICraft
 
 AI-assisted developer toolkit for code analysis and productivity.
