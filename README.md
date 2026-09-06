@@ -8,10 +8,10 @@ The goal of this project is to provide useful development resources, improve sof
 
 ## Features
 
-* Open-source code and tools
-* AI-assisted development experiments
-* Developer resources
-* Continuous improvement and updates
+- Python code analysis
+- Developer productivity tools
+- AI-assisted development experiments
+- Open-source learning resources
 
 ## Why AICraft?
 
