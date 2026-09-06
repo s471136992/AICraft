@@ -11,7 +11,14 @@ The goal of AICraft is to help developers understand code structure, improve pro
 # Features
 ## AI Code Explainer
 
-AICraft can use AI to explain Python source code and help developers understand complex code.
+AICraft provides an AI-powered code explanation tool.
+
+It helps developers understand Python source code by generating natural language explanations with AI assistance.
+
+Example:
+
+```bash
+python tools/ai_explainer.py examples/demo.py
 
 ## Code Analyzer
 
@@ -38,6 +45,21 @@ Future versions will explore:
 - Automated documentation
 - Developer productivity assistants
 
+# Roadmap
+
+Completed:
+
+- Python code analyzer
+- AI code explanation tool
+- Basic developer utilities
+
+
+Future plans:
+
+- AI documentation generation
+- Code improvement suggestions
+- More programming language support
+- AI developer assistant workflows
 
 ---
 
