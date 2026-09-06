@@ -13,7 +13,7 @@ The goal of this project is to provide useful development resources, improve sof
 * Developer resources
 * Continuous improvement and updates
 
-## Why 471Labs?
+## Why AICraft?
 
 Open source makes technology accessible to everyone.
 
