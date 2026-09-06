@@ -1,39 +1,46 @@
 # AICraft
 
-## About
+AI-assisted developer toolkit for code analysis and productivity.
 
-471Labs is an open-source development laboratory focused on sharing code, tools, and AI-assisted software projects.
+AICraft is an open-source project focused on exploring AI-assisted software development workflows, developer tools, and practical coding utilities.
 
-The goal of this project is to provide useful development resources, improve software development efficiency, and encourage open-source collaboration.
+The goal of AICraft is to help developers understand code structure, improve productivity, and explore modern AI-powered development methods.
 
-## Features
+---
 
-- Python code analysis
-- Developer productivity tools
-- AI-assisted development experiments
-- Open-source learning resources
+# Features
 
-## Why AICraft?
+## Code Analyzer
 
-Open source makes technology accessible to everyone.
+A simple Python tool that analyzes source code structure.
 
-471Labs aims to help developers learn, build, and collaborate by sharing practical software projects and development experiences.
+Features:
 
-## Roadmap
+- Count functions
+- Count classes
+- Display basic code information
 
-Future plans include:
 
-* Adding more open-source tools
-* Improving documentation
-* Supporting community contributions
-* Exploring AI-assisted development workflows
+## Developer Tools
 
-## Contribution
+AICraft provides small and practical tools that help developers improve their workflow.
 
-Contributions, suggestions, and feedback are welcome.
 
-Feel free to open an Issue or submit a Pull Request.
+## AI-assisted Development
 
-## License
+Future versions will explore:
 
-This project is open source and available for developers to use and improve.
+- AI code explanation
+- Code improvement suggestions
+- Automated documentation
+- Developer productivity assistants
+
+
+---
+
+# Installation
+
+Clone this repository:
+
+```bash
+git clone https://github.com/s471136992/AICraft.git
